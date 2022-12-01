@@ -1,0 +1,1 @@
+﻿Rename-Computer -ComputerName "OLD NAME" -NewName "NEW NAME" -DomainCredential aegis -Force
